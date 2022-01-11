@@ -1,0 +1,22 @@
+{
+  "name": "maksimvovk",
+  "version": "1.0.0",
+  "description": "<h1><img src=\"https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430\" width=\"30\"/> Hey! Nice to see you.</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksimVovk/maksimvovk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksimVovk/maksimvovk/issues"
+  },
+  "homepage": "https://github.com/MaksimVovk/maksimvovk#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
