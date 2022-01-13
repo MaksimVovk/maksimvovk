@@ -32,8 +32,4 @@
 </p>
 
 ------------
-<<<<<<< HEAD
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 13 January, 23:16 EET<br />
-=======
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, January 14, 12:26 AM GMT+2<br /></p>
->>>>>>> 40e87b1 (add spotify app into profile)
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 14 January, 00:28 EET<br /></p>
