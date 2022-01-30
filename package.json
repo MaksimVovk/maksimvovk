@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/MaksimVovk/maksimvovk#readme",
   "dependencies": {
-    "mustache": "^4.2.0"
+    "axios": "^0.25.0",
+    "mustache": "^4.2.0",
+    "querystring": "^0.2.1",
+    "url": "^0.11.0"
   }
 }
