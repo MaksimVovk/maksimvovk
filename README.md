@@ -32,4 +32,4 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 13 December, 00:09 EET<br />Currently, the weather is: -1°C , overcast clouds<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 13 December, 00:34 EET<br />Currently, the weather is: -1°C , light snow<br /></p>
